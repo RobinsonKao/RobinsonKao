@@ -18,4 +18,4 @@
 - 📈 [Project 2: Interactive Dashboard with Tableau](link): Created an interactive dashboard to visualize queried online sales data from project 1 to showcase revenue, cost of goods sold (COGS), net profit, customer lifetime value (CLV) profitability, season-wise revenue share, monthly revenue trends, country revenue contributions over time, and revenue generated per country.
 
 #### Get in Touch
-- 💼 LinkedIn: (www.linkedin.com/in/robinson-kao)
+- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/robinson-kao)
