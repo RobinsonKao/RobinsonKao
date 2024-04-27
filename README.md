@@ -15,7 +15,4 @@
 
   #### Projects
 - 📊 [Project 1: SQL Online Retail Sales Analysis](link): Utilized SQL queries to extract insights on product popularity, seasonal revenue, top-selling items, sales trends by month and country, customer spending habits, and customer lifetime value.
-- 📈 [Project 2: Interactive Dashboard with Tableau](link): Created an interactive dashboard to visualize queried online sales data from project 1 to showcase revenue, cost of goods sold (COGS), net profit, customer lifetime value (CLV) profitability, season-wise revenue share, monthly revenue trends, country revenue contributions over time, and revenue generated per country.
-
-#### Get in Touch
-- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/robinson-kao)
+- 📈 [Project 2: Interactive Dashboard with Tableau](https://public.tableau.com/app/profile/robinson.kao/viz/OnlineRetailSalesDashboard_17141246193480/Dashboard1): Created an interactive dashboard to visualize queried online sales data from project 1 to showcase revenue, cost of goods sold (COGS), net profit, customer lifetime value (CLV) profitability, season-wise revenue share, monthly revenue trends, country revenue contributions over time, and revenue generated per country.
