@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Robinson
+### 👋 Introducing Myself
 
 #### About Me
 - 🎓 Class of 2023 graduate from UC Berkeley with a degree in Data Science and Economics.
