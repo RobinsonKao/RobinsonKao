@@ -5,7 +5,7 @@
 - 💼 Actively seeking opportunities in the data analytics/business analytics industry.
  
 #### Skills
-- Querying data using SQL.
+- Querying data using SQL and Python.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau.
 - Data analysis and reporting using Google Sheets and Excel.
