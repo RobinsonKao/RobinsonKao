@@ -9,6 +9,8 @@
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau.
 - Data analysis and reporting using Google Sheets and Excel.
+- Well-versed in the fundamentals of machine-learning modeling and assessing model performance
+- Familiar with using industry-standard Python libraries for supervised / unsupervised modeling and visualizations
 
 ## 📚 Projects
 
