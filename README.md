@@ -2,7 +2,7 @@
 
 #### About Me
 - 🎓 Class of 2023 graduate from UC Berkeley with a degree in Data Science and Economics.
-- 💼 Actively seeking opportunities in the data analytics/business analytics industry.
+- 💼 Actively seeking opportunities in the Data Analytics & Business Analytics industry.
  
 #### Skills
 - Cleaning, Querying, and Analyzing data using SQL and Python.
