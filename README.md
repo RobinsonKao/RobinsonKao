@@ -3,6 +3,7 @@
 #### About Me
 - 🎓 Class of 2023 graduate from UC Berkeley with a degree in Data Science and Economics
 - 💼 Actively seeking opportunities in the Data Analytics & Business Analytics industry
+- Currently Working in Supply Chain & Logistics
  
 #### Skills
 - Cleaning, Querying, and Analyzing data using Python and SQL
@@ -19,7 +20,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Robin
 ## 🛠️ Tools
 
 - **Language:** SQL, Python
-- **Database:** MySQL
+- **Database:** MySQL, SQL Server
 - **Visualization:** Tableau
 
 ## 👋🏻 Connect with Me
