@@ -2,7 +2,7 @@
 
 #### About Me
 - 🎓 Class of 2023 graduate from UC Berkeley with a degree in Data Science and Economics
-- 💼 Actively seeking opportunities in the Data Analytics & Business Analytics industry
+- 💼 Actively seeking opportunities in the Supply Chain Analytics industry
 - 🚛 Currently Working in Supply Chain & Logistics as a Freight Forwarder
  
 #### Skills
