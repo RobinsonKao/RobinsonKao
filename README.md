@@ -3,9 +3,9 @@
 #### About Me
 - 🎓 Class of 2023 graduate from UC Berkeley with a degree in Data Science and Economics
 - 💼 Actively seeking opportunities in the Supply Chain Analytics domain
-- 🚛 Currently Working in Freight Forwarding as a Logistics Coordinator
+- 🚛 Currently working as a full-time Logistics Coordinator in Freight Forwarding
  
-#### Skills
+#### Technical Skills
 - Cleaning, Querying, and Analyzing data using Python and SQL
 - Generate reports and perform ad-hoc data analysis using SQL
 - Developing dashboards on Tableau
@@ -19,9 +19,9 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Robin
 
 ## 🛠️ Tools
 
-- **Language:** SQL, Python
+- **Language:** SQL, Python, MATLAB
 - **Database:** MySQL, Microsoft SQL Server
-- **Visualization:** Tableau
+- **Visualization:** Tableau, Excel
 
 ## 👋🏻 Connect with Me
 
